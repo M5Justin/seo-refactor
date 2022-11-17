@@ -23,8 +23,8 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
-.header div {
+/*targeted nav*/
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +32,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -45,7 +45,10 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* added underline to nav options*/
+a:hover {
+    text-decoration: underline;
+}
 p {
     font-size: 16px;
 }
@@ -88,7 +91,7 @@ p {
     /* changed color to match the blue in other boxes */
     background-color: #0072bb;
 }
-/* lowered margin-bottom so that all boxes align at bottom and conjoined following 3 class selector groups*/
+/* lowered margin-bottom so that all boxes align at bottom and conjoined following 3 class selector groups to remove redundency*/
 .benefit {
     margin-bottom: 31px;
     color: #ffffff;
@@ -104,7 +107,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* -------------------------------- */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;

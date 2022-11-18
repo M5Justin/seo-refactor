@@ -15,4 +15,4 @@ proper README file, and correctly deploy to a live URL.
 
 
 ## Visuals
-![Website preview](assets\images\127.0.0.1_5500_index.html.png)
+![Website preview](assets/images/127.0.0.1_5500_index.html.png)

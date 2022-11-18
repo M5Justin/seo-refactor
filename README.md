@@ -1,5 +1,5 @@
 # My Application
-[Link to my project](https://github.com/M5Justin/seo-refactor)
+[Link to my project](https://m5justin.github.io/seo-refactor/)
 
 ## Table of Contents
 - [Description](#description)
